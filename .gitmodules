@@ -1,3 +1,6 @@
 [submodule "Plugins/Pligin1"]
 	path = Plugins/Pligin1
 	url = https://github.com/felocSsS/Plugin1.git
+[submodule "Plugins/Pligin2"]
+	path = Plugins/Pligin2
+	url = https://github.com/felocSsS/Plugin2.git
