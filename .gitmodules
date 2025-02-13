@@ -1,0 +1,3 @@
+[submodule "Plugins/Pligin1"]
+	path = Plugins/Pligin1
+	url = https://github.com/felocSsS/Plugin1.git
